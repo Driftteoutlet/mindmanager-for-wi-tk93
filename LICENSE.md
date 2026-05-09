@@ -1,4 +1,4 @@
-
+new MindManager for Windows Integration | drag-and-drop + mind-map-creation offers the most advanced MindManager for Windows integration, with drag-and-drop and mind-map-creation.
 
 
 
